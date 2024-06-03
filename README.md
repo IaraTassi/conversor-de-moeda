@@ -31,6 +31,7 @@ Para realizar as conversões de moeda, foi utilizada a [API da ExchangeRate-AP](
 
 ### 👀 O resultado
 
-![image]()
+![image](https://github.com/IaraTassi/conversor-de-moeda/blob/main/src/imgs/tela-conversor.png)
+
 
 
